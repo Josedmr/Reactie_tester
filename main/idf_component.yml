@@ -1,0 +1,5 @@
+dependencies:
+
+  myGPIO:
+    path: components/myGPIO
+    git: https://github.com/Josedmr/Projecten_Microcontroller.git
